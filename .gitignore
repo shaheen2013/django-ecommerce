@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+db.sqlite3
+Pipfile.lock
+__pycache__/
+*.py[cod]
+static
+.idea
+.vscode
